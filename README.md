@@ -1,4 +1,4 @@
-# Telco Analysis Project
+# Analysis of a Telecom company's customer dataset
 
 ## Setup
 
